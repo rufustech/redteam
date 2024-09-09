@@ -13,6 +13,3 @@ Cricket has 3 main Format
 - one day
 - test
 - T20
-
-[cricket](https://www.cricket.com/)
-
